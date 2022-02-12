@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(230, 230, 230);
+}
+
+#bla
+{
+    background-color: grey;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to right top, rgb(255, 136, 136), rgb(129, 255, 129), rgb(115, 115, 255));
+    line-height: 3;
+    text-align: center;
+}
+#earImage
+{
+    height: 400px;
+}
+
